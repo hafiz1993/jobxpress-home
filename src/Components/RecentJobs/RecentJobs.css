@@ -1,0 +1,13 @@
+.recent-job .section-header.section-header-2 {
+    padding-top: 72px;
+}
+.recent-job .section-header {
+    margin-bottom: 35px;
+}
+
+.recent-bottom-border {
+    width: 100px;
+    display: block;
+    border: 2px solid #f5d91d;
+    height: 2px;
+}

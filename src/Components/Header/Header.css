@@ -1,0 +1,11 @@
+.banner-4-bg {
+    margin-top: -125px;
+    padding-top: 125px;
+}
+.banner-height {
+    height: 960px;
+}
+.banner-4-bg {
+    background: #111133 url('../../images/bg_home.jpg') no-repeat top;
+    background-size: cover;
+}

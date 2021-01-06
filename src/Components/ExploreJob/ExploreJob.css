@@ -1,0 +1,54 @@
+.explore-job-wrapper {
+    padding-bottom: 40px;
+}
+.bg-yellow {
+    background-color: #f5d91d !important;
+    
+}
+
+.section-padding-top {
+    padding-top: 70px;
+    
+}
+.explore-job .explore-job-header h5 {
+    color: #101725;
+    font-size: 1.4rem;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-transform: uppercase;
+}
+
+
+.explore-job {
+    background: #fff;
+    border-radius: 10px;
+}
+.explore-job .explore-job-header {
+    border: 0px;
+}
+
+.explore-job .explore-job-header h5 {
+    color: #101725;
+    font-size: 1.4rem;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+  
+    text-transform: uppercase;
+}
+
+.explore-job .key-info ul {
+    padding: 30px;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin: 0;
+    margin-top: 30px;
+    list-style: none;
+    height: 270px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+}
